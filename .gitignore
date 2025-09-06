@@ -1,0 +1,21 @@
+# Frontend
+/frontend/node_modules
+/frontend/.next
+/frontend/out
+/frontend/.turbo
+/frontend/.pnp
+
+# Backend
+/backend/node_modules
+/backend/dist
+
+# Env
+**/.env
+**/.env.*
+
+# OS
+.DS_Store
+
+# Editors
+.vscode
+.idea
